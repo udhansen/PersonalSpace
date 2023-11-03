@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @udhansen
-- 👀 I’m interested in electrical engineering
-- 🌱 I’m currently learning git
-- 📫 How to reach me ulrik.dan@esquire.dk
+- 👀 I’m an electrical engineer focusing on embedded systems and acoustics
+- 📫 How to reach me: ulrik.dan@esquire.dk
 
 <!---
 udhansen/udhansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
